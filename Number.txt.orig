@@ -4,5 +4,9 @@
 17 18 19 20 21 
 feature2
 feature2新增字段feature3新增字段
+<<<<<<< HEAD
+hello
+=======
 hello world
+>>>>>>> c8a4d1a (你好)
 你好呀
