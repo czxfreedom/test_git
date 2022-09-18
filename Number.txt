@@ -6,3 +6,4 @@ feature2
 feature2新增字段feature3新增字段
 hello world
 你好呀
+pick
